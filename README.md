@@ -18,7 +18,7 @@ Adding some more descriptions.
 This example helps to understand git
 
 ##Copyright
-This is a copyright notice
+This is a copyright notice , All rights reserved.
 
 ##How to contribute
 Please fork this repository
