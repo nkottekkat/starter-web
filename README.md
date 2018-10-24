@@ -18,3 +18,6 @@ This example helps to understand git
 
 ##Copyright
 This is a copyright notice
+
+##How to contribute
+Please fork this repository
