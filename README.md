@@ -15,3 +15,6 @@ THis is a genral description
 
 ##Introduction
 This example helps to understand git
+
+##Copyright
+This is a copyright notice
