@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work, Adding one more line for
 
 Sample website with plenty of files for demos
 This is another change for showing comparison
+EMergency fix
 
 ##Deployment
 This is modified.
