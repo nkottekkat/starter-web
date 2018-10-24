@@ -12,6 +12,7 @@ This is modified.
 
 ##Description
 THis is a genral description
+Adding some more descriptions.
 
 ##Introduction
 This example helps to understand git
